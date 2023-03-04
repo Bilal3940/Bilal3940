@@ -16,6 +16,6 @@ I'm a Computer Science Student  👨‍💻, Currently in pre-final year  at Com
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+[![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bilal-javaid-a6964a247///)](https://www.linkedin.com/in/bilal-javaid-a6964a247/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bilalj3940@gmail.com)](mailto:bilalj3940@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
