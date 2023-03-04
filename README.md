@@ -2,9 +2,6 @@
 
 
 <h1 align='center'>  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Bilal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<a href="https://www.linkedin.com/in/bilal-javaid-a6964a247/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://bilal3940.github.io/Bilal/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://instagram.com/bilal_javaid96" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 I'm a Computer Science Student  👨‍💻, Currently in pre-final year  at Comsats Univeristy Islamabad 👨‍🎓
 
 - 🔭 I’m currently working on React.js 
