@@ -15,9 +15,7 @@ I'm a Computer Science Student  👨‍💻, Currently in pre-final year  at Com
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bilalj3940@gmail.com)](mailto:bilalj3940gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<h6> Feel free to Contact me via these either </h6> <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bilal-javaid-a6964a247///)](https://www.linkedin.com/in/bilal-javaid-a6964a247/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bilalj3940@gmail.com)](mailto:bilalj3940@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/bilal_javaid96?igshid=NTE5MzUyOTU=)](https://instagram.com/bilal_javaid96?igshid=NTE5MzUyOTU=) 
-</p>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
