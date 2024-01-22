@@ -1,6 +1,5 @@
 <p align="center" ><img  alt="bilal_javaid"  src="https://asset.cloudinary.com/dw2akyum5/4f64212221aefef74ac52b769d7c2e82" height="350px" width ="350px"></p>
-
-
+<img src="https://asset.cloudinary.com/dw2akyum5/4f64212221aefef74ac52b769d7c2e82" />
 <h1 align='center'>  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Bilal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 I'm a Computer Science Student  👨‍💻, Currently in final year  at Comsats Univeristy Islamabad 👨‍🎓
 
