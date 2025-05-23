@@ -19,3 +19,16 @@ I'm a Computer Science Graduate 🎓 from **Comsats University Islamabad**, curr
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bilal-javaid-a6964a247/)](https://www.linkedin.com/in/bilal-javaid-a6964a247/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bilalj3940@gmail.com)](mailto:bilalj3940@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/bilal_javaid96?igshid=NTE5MzUyOTU=)](https://instagram.com/bilal_javaid96?igshid=NTE5MzUyOTU=)
+
+
+---
+
+### 📊 GitHub Stats
+
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilal3940&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal3940&layout=compact&theme=radical)
+
+### ⚡ Recent Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bilal3940&theme=github-compact)
+
