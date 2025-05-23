@@ -25,7 +25,9 @@ I'm a Computer Science Graduate 🎓 from **Comsats University Islamabad**, curr
 
 ### 📊 GitHub Stats
 
-![GitHub Metrics](./metrics.svg)
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilal3940&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal3940&layout=compact&theme=radical)
 
 ### ⚡ Recent Activity
