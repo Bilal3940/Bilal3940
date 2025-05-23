@@ -3,7 +3,8 @@ name: GitHub Metrics
 on:
   push:
     branches: [main]
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,19 +18,13 @@ jobs:
           # Output
           filename: metrics.svg
           config_timezone: Asia/Karachi
-          config_twemoji: true
-          config_octicon: true
           config_display: large
           config_animations: true
           config_padding: 0, 8 + 11%
           template: terminal@dark
 
-          # Base sections
-          base: activity, community, repositories, metadata
+          # Show only current year contributions (activity)
+          base: activity
 
-          # Plugins
-          plugin_traffic: yes
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_followup: yes
-          plugin_lines: yes
+          # Filter contributions to current year only
+          config_activity_year: current
