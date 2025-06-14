@@ -2,7 +2,7 @@
 
 I'm a Computer Science Graduate 🎓 from **Comsats University Islamabad**, currently working as an **Associate Software Engineer at WeTechnoids** 💼.
 
-- 🔭 I’m currently working with **NestJS** and **Astro.js**
+- 🔭 I’m currently working with **NextJS** **NestJS** and **Astro.js**
 - 🌱 I’m exploring **Data Science** and **Kali Linux**
 - 👯 I’m open to collaborate on **Java projects** and **Web Development**
 - 🤔 I’m looking to grow deeper in **JavaScript** and **modern web stacks**
